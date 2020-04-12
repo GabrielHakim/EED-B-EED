@@ -1,0 +1,128 @@
+body{
+  background:#b7efcd;
+  text-align: center;
+  margin: 0;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 4rem;
+}
+h2{
+  font-family: 'Sacramento', cursive;
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 0;
+  margin-top: 4%;
+}
+h3{
+  font-family: 'Sacramento', cursive;
+  text-align: center;
+}
+p{
+  padding:0 20%;
+}
+hr{
+  border: dotted 6px grey;
+  border-bottom: none;
+  margin-left: auto;
+  width: 6%;
+}
+.language-container-link{
+  color: black;
+}
+.language-container{
+  text-align: left;
+  color: black;
+}
+.about-container{
+  width: 50%;
+  margin: 30px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.community-land-owner-container{
+  width: 50%;
+  margin: 30px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+.community-farmer-container{
+  width: 50%;
+  margin: 30px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+.community-investor-container{
+  width: 50%;
+  margin: 30px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+.contact-us-container{
+  background-color: #d9bf77;
+  margin: 50px auto 0 auto;
+}
+.who-img{
+  float: left;
+  width: 20%;
+  margin-right: 4%;
+}
+.land-owner-img{
+  float: left;
+  width: 20%;
+  margin-right: 4%;
+}
+.farmer-img{
+  float: right;
+  width: 20%;
+  margin-left: 4%;
+}
+.investor-img{
+  float: left;
+  width: 20%;
+  margin-right: 4%;
+}
+.copy-right{
+  padding: 1rem 0;
+  font-size: 0.75rem;
+  color: white;
+  margin-bottom: 0;
+}
+a{
+  padding: 0 2%;
+  text-decoration: none;
+  color: #9c5518;
+  font-weight: bold;
+}
+a:hover{
+  padding: 0 2%;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+.btn {
+  background: #D9BF77;
+  background-image: -webkit-linear-gradient(top, #D9BF77, #7A6B3F);
+  background-image: -moz-linear-gradient(top, #D9BF77, #7A6B3F);
+  background-image: -ms-linear-gradient(top, #D9BF77, #7A6B3F);
+  background-image: -o-linear-gradient(top, #D9BF77, #7A6B3F);
+  background-image: linear-gradient(to bottom, #D9BF77, #7A6B3F);
+  -webkit-border-radius: 8;
+  -moz-border-radius: 8;
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFFF
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #D9BF77;
+  background-image: -webkit-linear-gradient(top, #D9BF77, #C4B895);
+  background-image: -moz-linear-gradient(top, #D9BF77, #C4B895);
+  background-image: -ms-linear-gradient(top, #D9BF77, #C4B895);
+  background-image: -o-linear-gradient(top, #D9BF77, #C4B895);
+  background-image: linear-gradient(to bottom, #D9BF77, #C4B895);
+  text-decoration: none;
+}
